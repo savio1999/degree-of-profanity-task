@@ -1,1 +1,1 @@
-# degree-of-profanity-task
+# degree-of-profanity-check-task
